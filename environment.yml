@@ -1,0 +1,9 @@
+name: TECH2-assignment
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
