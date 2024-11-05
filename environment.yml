@@ -2,7 +2,7 @@ name: TECH2-assignment
 channels:
   - defaults
 dependencies:
-  - python
+  - python=3.13
   - numpy
   - matplotlib
   - pandas
