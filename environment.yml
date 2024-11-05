@@ -2,10 +2,10 @@ name: TECH2-assignment
 channels:
   - defaults
 dependencies:
-  - python=3.13
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
-  - ipykernel
-  - openpyxl
+  - python=3.12.7
+  - numpy=1.26.4
+  - matplotlib=3.9.2
+  - pandas=2.2.2
+  - seaborn=0.13.2
+  - ipykernel=6.29.5
+  - openpyxl=3.1.5
